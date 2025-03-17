@@ -1,3 +1,4 @@
-data
+data/**
 tasks/*.pdf
 reports/*.html
+!.gitkeep
